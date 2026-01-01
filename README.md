@@ -11,6 +11,7 @@ Tecnologias Utilizadas:
 
     .Node.js
     .Express
+    .Postman Agent
     .Prisma ORM
     .Mongo DB
     .CORS
